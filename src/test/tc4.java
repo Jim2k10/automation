@@ -13,7 +13,22 @@ public class tc4 {
 	System.out.println("HI nigga");
 	System.out.println("hilelile");
 	
+	System.out.println("hi there");
+	
 
 	}
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
