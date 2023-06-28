@@ -30,7 +30,7 @@ public class tc4 {
 		System.out.println("You have successfully access the prigram");
 	}else
 	{
-		 System.out.println("error!");
+		 System.out.println("mf loser");
 		 
 	}
 	
