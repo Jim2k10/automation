@@ -12,6 +12,7 @@ public class tc4 {
 	System.out.println("bro u get my code?");
 	
 	
+	int x = 10;
 	
 	
 	
@@ -22,6 +23,13 @@ public class tc4 {
 	
 	
 	String type = vi.nextLine();
+	
+	for(int i =0; i <x; i++) {
+		
+		System.out.println(x);
+		
+		
+	}
 	
 	if(type.equals("yes"))
 	{	
