@@ -6,6 +6,7 @@ public class Tcl {
 		// TODO Auto-generated method stub
     
 		System.out.println("print uu");
+		System.out.println("now ");
 	}
 
 }
