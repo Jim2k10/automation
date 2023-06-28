@@ -6,7 +6,12 @@ public class tc4 {
 		
 		
 	System.out.println("this is tc4");
+
 	System.out.println("bro u get my code?");
+	
+	
+	System.out.println("HI nigga");
+	
 
 	}
 
