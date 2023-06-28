@@ -1,11 +1,10 @@
 package test;
 
-public class Tcl {
+public class Tcl3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-    
-		System.out.println("print uu");
+    System.out.println("brroo job lagbe");
 	}
 
 }
