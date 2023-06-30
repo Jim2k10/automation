@@ -12,37 +12,28 @@ public class tc4 {
 	System.out.println("bro u get my code?");
 	
 	
-	int x = 10;
-	
-	
-	
-	Scanner vi = new Scanner(System.in);
-	
-	
-	System.out.println("Please type yes to run");
-	
-	
-	String type = vi.nextLine();
-	
-	for(int i =0; i <x; i++) {
-		
-		System.out.println(x);
-		
-		
-	}
-	
-	if(type.equals("yes"))
-	{	
-		
-		
-		System.out.println("You have successfully access the prigram");
-	}else
-	{
-		 System.out.println("mf loser");
-		 
-	}
 	
 
+	}
+	
+	
+	
+	
+	
+	
+	  
+	
+	
+	
+	
+	public static void yd() {
+		
+		
+		System.out.println("this is a method");
+		
+		
+		
+		
 	}
 
 }
