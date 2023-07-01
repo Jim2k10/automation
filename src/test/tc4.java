@@ -7,9 +7,7 @@ public class tc4 {
 	public static void main(String[] args) {
 		
 		
-	System.out.println("this is tc4");
 
-	System.out.println("bro u get my code?");
 	
 	
 	
@@ -29,7 +27,7 @@ public class tc4 {
 	public static void yd() {
 		
 		
-		System.out.println("this is a method");
+		System.out.println("Bro lets start now");
 		
 		
 		
